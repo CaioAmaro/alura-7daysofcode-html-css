@@ -1,0 +1,15 @@
+@import url(./navbar.css);
+
+:root{
+    --cor-fundo: #FFFFFF;
+    --cor-primaria: #667085;
+    --cor-secundaria: #8E2424;
+    --font: "Inter";
+}
+
+body{
+    background-color: var(--fundo);
+    color: var(--cor-primaria);
+    font-family: var(--font);
+    font-weight: 500;
+}

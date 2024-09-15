@@ -1,0 +1,29 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.1em 5em;
+}
+
+.lista-links{
+    display: flex;
+    gap: 2em;
+    margin-right: auto;
+    margin-left: 7.4em;
+    list-style-type: none;
+}
+
+.lista-botoes{
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    margin-right: 2em;
+    list-style-type: none;
+}
+
+.botao-estilo-1{
+    background-color: var(--cor-secundaria);
+    color: var(--cor-fundo);
+    padding: 0.6em 1.1em;
+    border-radius: 0.5em;
+}
