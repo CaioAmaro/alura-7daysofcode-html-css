@@ -1,9 +1,12 @@
 @import url(./navbar.css);
+@import url(./cabecalho.css);
+@import url(./metricas.css);
 
 :root{
     --cor-fundo: #FFFFFF;
     --cor-primaria: #667085;
     --cor-secundaria: #8E2424;
+    --cor-terciaria: #101828;
     --font: "Inter";
 }
 

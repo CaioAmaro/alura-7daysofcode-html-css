@@ -1,0 +1,27 @@
+.metricas{
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    height: 18em;
+}
+
+.metricas-box{
+    display: flex;
+    flex-direction: column;
+}
+
+.metricas-box__indicador{
+    font-weight: 600;
+    font-size:3.75em;
+    color: var(--cor-secundaria);
+    margin-bottom: 0.2em;
+}
+
+.metricas-box__subtitulo{
+    color: var(--cor-terciaria);
+    margin-bottom: 0.5em;
+}
+
+.metricas-box__texto{
+    width: 17.5em;
+}
